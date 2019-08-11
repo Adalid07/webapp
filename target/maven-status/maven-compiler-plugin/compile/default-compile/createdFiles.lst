@@ -1,0 +1,10 @@
+net\screenplay\ui\SignIn_Button.class
+net\screenplay\ui\URL_page.class
+net\screenplay\tasks\CreateAccount.class
+net\screenplay\ui\FillPersonalInformation.class
+net\screenplay\ui\ResultTest.class
+net\screenplay\tasks\OpenPage.class
+net\screenplay\Questions\Customer_account.class
+net\screenplay\ui\AutentificationPage.class
+net\screenplay\tasks\RegisterUser.class
+net\screenplay\tasks\SignIn.class
